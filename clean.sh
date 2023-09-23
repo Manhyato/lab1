@@ -1,2 +1,2 @@
 git reset --hard
-git clean -d -force
+git clean -d --force
